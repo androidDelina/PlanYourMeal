@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">PlanYourMeal</string>
+    <string name="food_plan">Food Plan</string>
+    <string name="slogan_1">Мы позаботимся о выборе твоего питания</string>
+    <string name="slogan_2">“Food Plan” экономит твое время при выборе меню и автоматически составляет список продуктов</string>
+    <string name="login">Вход</string>
+    <string name="registration">Регистрация</string>
+    <string name="enter_phone">Введите номер телефона</string>
+    <string name="next">Далее</string>
+    <string name="terms_of_use">пользовательское соглашение</string>
+    <string name="privacy_policy">условиях политики конфиденциальности</string>
+    <string name="terms_of_use_text_1">Нажимая “Далее”, вы принимаете</string>
+    <string name="terms_of_use_text_2">и соглашаетесь на обработку вашей</string>
+    <string name="terms_of_use_text_3">персональной информации на</string>
+    <string name="enter_sms_code">Введите код из смс.\n Мы отправили его на номер:\n</string>
+</resources>
